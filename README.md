@@ -22,10 +22,14 @@ Im Rahmen des Kurses ist eine Bankverwaltung entstanden die erst ihre Daten aus 
 
 ## Interessante Resourcen
 
+- LeePoint JavaBasics: http://www.leepoint.net/JavaBasics/
+- ZetCode: http://zetcode.com ( Tutorials und mehr: Java, Swing, JavaFx, Java2d, etc )
 - ZeroBin: http://sebsauvage.net/paste/  ( GitHub http://sebsauvage.net/wiki/doku.php?id=php:zerobin )
 - PasteBin: http://pastebin.com/
-- ZetCode: http://zetcode.com ( Tutorials und mehr: Java, Swing, JavaFx, Java2d, etc )
 
+## Code Beispiele
+
+- Ein Bilder als Hintergrund von einem JPanel verwenden http://stackoverflow.com/questions/19125707/simplest-way-to-set-image-as-jpanel-backgroundeeE
 
 ## TODO
 
