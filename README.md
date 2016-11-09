@@ -1,4 +1,4 @@
-# KIT 8605 -Fortgeschrittene Java Entwicklung
+# KIT 8605 - Fortgeschrittene Java Entwicklung
 
 Lehrgang am KIT in Dresden. Fortgeschrittene Java Entwicklung. Folgende Themen wurden behandelt:
 
