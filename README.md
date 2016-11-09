@@ -20,6 +20,13 @@ Im Rahmen des Kurses ist eine Bankverwaltung entstanden die erst ihre Daten aus 
 - Entwicklungsumgebung ist Eclipse Mars.1
 - Der Code kann fehlerhaft sein.
 
+## Interessante Resourcen
+
+- ZeroBin: http://sebsauvage.net/paste/  ( GitHub http://sebsauvage.net/wiki/doku.php?id=php:zerobin )
+- PasteBin: http://pastebin.com/
+- ZetCode: http://zetcode.com ( Tutorials und mehr: Java, Swing, JavaFx, Java2d, etc )
+
+
 ## TODO
 
 - umstellen auf eine H2DB oder HSQLDB um einen _embedded db server_ zu haben.
